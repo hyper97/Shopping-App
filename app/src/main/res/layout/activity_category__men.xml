@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Category_Men">
+
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomnav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/bottomnavigation"
+        android:background="@color/yellow"/>
+
+    <EditText
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignTop="@+id/bottomnav"
+        android:layout_marginTop="-596dp"
+        />
+
+    <EditText
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_marginBottom="-93dp"
+        />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_alignBottom="@+id/textView11"
+        android:layout_marginBottom="-90dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+       />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="323dp"
+        android:layout_height="205dp"
+        android:layout_alignBottom="@+id/editText3"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginBottom="-218dp"
+      />
+
+    <Button
+        android:id="@+id/iupdate"
+        android:layout_width="108dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView10"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="75dp"
+        android:layout_marginBottom="-88dp"
+        android:background="@drawable/background"
+        android:backgroundTint="@color/green"
+        android:text="@string/Update" />
+
+    <Button
+        android:id="@+id/icancel"
+
+        android:layout_width="104dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/iupdate"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/background"
+        android:backgroundTint="@color/red"
+        android:text="@android:string/cancel" />
+
+</RelativeLayout>

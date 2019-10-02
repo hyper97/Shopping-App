@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869120043258",
+    "firebase_url": "https://wings-c6f36.firebaseio.com",
+    "project_id": "wings-c6f36",
+    "storage_bucket": "wings-c6f36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869120043258:android:93e8de8f40e18d146e8143",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869120043258-g4er5phpg2831r291v92gbq9spfsl138.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "dd4431e3208547d0c75d17014f8bd64e03778f46"
+          }
+        },
+        {
+          "client_id": "869120043258-o1gplijo7ljun6mfuhude60nsgprnp3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJnMZqxO4PcPtLVEDDvup0TIyLMg-VZn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869120043258-o1gplijo7ljun6mfuhude60nsgprnp3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

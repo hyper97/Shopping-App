@@ -1,0 +1,226 @@
+<resources>
+    <string name="app_name">Wings</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_login">Sign Up</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="Clear">Reset</string>
+    <string name="card">Show Card</string>
+
+
+    <!-- Spinners -->
+
+    <!--<String-array name="name">//For Mens-->
+    <!--<item>Small</item>-->
+    <!--<item>Medium</item>-->
+    <!--<item>Large</item>-->
+    <!--<item>Extra Large</item>-->
+    <!--</String-array>-->
+
+
+    <!--<String-array name="belt">//For Accesseries - Belts-->
+    <!--<item>FreeSize</item>-->
+    <!--</String-array>-->
+
+    <!--<String-array name="Women">// For Women-->
+    <!--<item>Extra Small</item>-->
+    <!--<item>Small</item>-->
+    <!--<item>Medium</item>-->
+    <!--<item>Large</item>-->
+    <!--</String-array>-->
+
+    <!--<String-array name="color">//For All-->
+    <!--<item>Gray</item>-->
+    <!--<item>Black</item>-->
+    <!--<item>Red</item>-->
+    <!--<item>Blue Large</item>-->
+    <!--</String-array>-->
+
+    <!--<String-array name="kids">//For Kids-->
+    <!--<item>Extra Small</item>-->
+    <!--<item>Small</item>-->
+    <!--</String-array>-->
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_category">Category</string>
+
+    <!--<string name="app_name">Login</string>-->
+    <!--&lt;!&ndash; Strings related to login &ndash;&gt;-->
+    <!--<string name="prompt_email">Email</string>-->
+    <!--<string name="prompt_password">Password</string>-->
+    <!--<string name="action_sign_in">Sign in or register</string>-->
+    <!--<string name="action_sign_in_short">Sign in</string>-->
+    <!--<string name="welcome">"Welcome !"</string>-->
+    <!--<string name="invalid_username">Not a valid username</string>-->
+    <!--<string name="invalid_password">Password must be >5 characters</string>-->
+    <!--<string name="login_failed">"Login failed"</string>-->
+    <!--<string name="title_activity_home">Home</string>-->
+    <!--<string name="title_home">Home</string>-->
+    <!--<string name="title_dashboard">Dashboard</string>-->
+    <!--<string name="title_notifications">Notifications</string>-->
+    <string name="username">Username</string>
+    <string name="re_enter_password">Re-Enter password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="SIGNUP">SignUp</string>
+    <string name="orders_place">Orders Placed</string>
+    <string name="information">My Information</string>
+    <string name="paymentcards">Payment Cards</string>
+    <string name="logout">LogOut</string>
+    <string name="contactus">ContactUs</string>
+    <string name="todo6">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="payment_info">Payment Info</string>
+    <string name="busra_akel">Busra Akel</string>
+    <string name="todo45">TODO</string>
+    <string name="save">Save</string>
+    <string name="zip_postal_code">Zip/Postal Code</string>
+    <string name="set_as_default_shipping_address">Set as default Shipping Address</string>
+    <string name="state_province_country">State/Province/country</string>
+    <string name="street_address_p_o_box_etc">Street Address,P.O box,etc.</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="shipping_info">Shipping Info</string>
+    <string name="mobile">Mobile</string>
+    <string name="city">City</string>
+    <string name="_94">+94</string>
+    <string name="card_number">Card Number</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="cvv">CVV</string>
+    <string name="pay">Pay</string>
+    <string name="expire_date">Expire Date</string>
+    <string name="busra_akel_gmail_com">busra.akel@gmail.com</string>
+    <string name="female">Female</string>
+    <string name="birth_year">Birth Year</string>
+    <string name="gender">Gender</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="busra_akel_emiliya">Busra Akel Emiliya</string>
+    <string name="no_17_new_kandy_road_malabe">No 17,New Kandy Road, Malabe</string>
+    <string name="address">Address</string>
+    <string name="_1995">1995</string>
+    <string name="_9477_4587996">+9477 4587996</string>
+    <string name="update_details">Update Details</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="my_information">My Information</string>
+    <string name="payment_cards">Payment Cards</string>
+    <string name="orders_placed">Orders Placed</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="cart">Cart</string>
+    <string name="select_all_available_items">Select all available items</string>
+    <string name="rs_1200_00">Rs 1200.00</string>
+    <string name="spring_athletic_t_shirt">Spring Athletic T-Shirt</string>
+    <string name="levis_leather_belt">Levis Leather Belt</string>
+    <string name="string_rs_650_00" />
+    <string name="todo35">TODO</string>
+    <string name="buy">BUY</string>
+    <string name="todo36">TODO</string>
+    <string name="todo44">TODO</string>
+    <string name="rs_650_00">Rs.650.00</string>
+    <string name="signup">SIGNUP</string>
+    <string name="signup1">SignUp</string>
+    <string name="shop">Shop</string>
+    <string name="already_have_account_login">Already have Account ? Login</string>
+    <string name="todo78">TODO</string>
+    <string name="todo79">TODO</string>
+    <string name="add_a_credit_debit_card">Add a credit/debit card</string>
+    <string name="security_code_cvv">Security Code(CVV)</string>
+    <string name="save_this_card">save this card</string>
+    <string name="you_can_remove_this_card_at_anytime_in_my_cards">(You can remove this card at anytime in My Cards)</string>
+    <string name="delete_card">Delete Card</string>
+    <string name="add_new_card">Add New Card</string>
+    <string name="update_card_details">Update Card Details</string>
+    <string name="h_p_g_wickramasingha_3254">H.P.G Wickramasingha ********3254</string>
+    <string name="card_details">Card Details</string>
+    <string name="saved">save</string>
+    <string name="shipping_infos">shipping_info</string>
+    <string name="you_can_remove_this_card_at_anytime_in_payment_cards">you can remove this card at anytime in payment cards</string>
+    <string name="shipping_information">Shipping Information</string>
+    <string name="emiliya_clark">Emiliya Clark</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="you_can_remove_this_card_at_anytime_in_payment_cards1">(You can remove this card at anytime in payment cards)</string>
+    <string name="emiliya_clark_3254">Emiliya clark ********3254</string>
+    <string name="continued">CONTINUE</string>
+    <string name="use_default_shipping_address">Use Default Shipping Address</string>
+    <string name="use_default_card">Use default card</string>
+    <string name="emilia_clark">Emilia Clark</string>
+    <string name="emiliya_clark_gmail_com">emiliya.clark@gmail.com</string>
+    <string name="post_ad">+ Post Ad</string>
+    <string name="from_the_categories">From the Categories</string>
+    <string name="todo14">TODO</string>
+    <string name="todo18">TODO</string>
+    <string name="todo15">TODO</string>
+    <string name="todo16">TODO</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_description">Item Description</string>
+    <string name="price">Price</string>
+    <string name="title">Title</string>
+    <string name="add_image">Add Image</string>
+    <string name="todo25">TODO</string>
+    <string name="posted_ads">Posted Ads</string>
+    <string name="delete_post">Delete Post</string>
+    <string name="update_post">Update Post</string>
+    <string name="todo96">TODO</string>
+    <string name="todo98">TODO</string>
+    <string name="mobile_number1">Mobile number</string>
+    <string name="enter_email">Enter email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="clear" />
+    <string name="show_card" />
+    <string name="Update">Update</string>
+    <string name="Itemname">Item Name</string>
+    <string name="todo">TODO</string>
+    <string-array name="categary">
+        <item>Select Category</item>
+        <item>Mens</item>
+        <item>Womens</item>
+        <item>Kids(Boys)</item>
+        <item>Kids(Girls)</item>
+    </string-array>
+
+
+</resources>
